@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eO/jRg1f9vU=",
+  "success": true,
+  "projectFilePath": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Wallet.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w11su\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

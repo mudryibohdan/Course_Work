@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLwtlwIKKCM=",
+  "success": true,
+  "projectFilePath": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w11su\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\w11su\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

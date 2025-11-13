@@ -1,0 +1,15 @@
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\bin\Debug\net9.0\Wallet.DataAccess.deps.json
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\bin\Debug\net9.0\Wallet.DataAccess.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\bin\Debug\net9.0\Wallet.DataAccess.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\bin\Debug\net9.0\Wallet.Domain.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\bin\Debug\net9.0\Wallet.Domain.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.csproj.AssemblyReference.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.AssemblyInfoInputs.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.AssemblyInfo.cs
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.csproj.CoreCompileInputs.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.D.F8CB33E2.Up2Date
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\refint\Wallet.DataAccess.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\ref\Wallet.DataAccess.dll

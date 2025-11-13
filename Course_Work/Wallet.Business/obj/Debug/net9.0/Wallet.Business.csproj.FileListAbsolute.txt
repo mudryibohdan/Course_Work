@@ -1,0 +1,15 @@
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\bin\Debug\net9.0\Wallet.Business.deps.json
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\bin\Debug\net9.0\Wallet.Business.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\bin\Debug\net9.0\Wallet.Business.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\bin\Debug\net9.0\Wallet.Domain.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\bin\Debug\net9.0\Wallet.Domain.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.csproj.AssemblyReference.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.AssemblyInfoInputs.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.AssemblyInfo.cs
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.csproj.CoreCompileInputs.cache
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.B.3747F21E.Up2Date
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\refint\Wallet.Business.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.pdb
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\ref\Wallet.Business.dll

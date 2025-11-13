@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6a3f88bf-aec6-45e3-9b48-6cc93201b667",
+    "accountId": "6a761d74-6710-4384-a891-1de2585e7e54",
+    "counterpartyAccountId": null,
+    "categoryId": "60312309-8df0-4983-90c3-0b281c46d59c",
+    "transferGroupId": null,
+    "type": "Expense",
+    "amount": -10,
+    "occurredOn": "2025-11-13T00:00:00",
+    "note": null,
+    "isIncome": false,
+    "absoluteAmount": 10
+  },
+  {
+    "id": "797ce518-d418-4a9d-8aa2-ad392285b5f1",
+    "accountId": "2fb289a0-aecd-45d4-abf4-8f767d8077cd",
+    "counterpartyAccountId": null,
+    "categoryId": "60312309-8df0-4983-90c3-0b281c46d59c",
+    "transferGroupId": null,
+    "type": "Expense",
+    "amount": -230,
+    "occurredOn": "2025-11-13T00:00:00",
+    "note": null,
+    "isIncome": false,
+    "absoluteAmount": 230
+  }
+]
