@@ -1,12 +1,9 @@
 using System.Text.Json.Serialization;
-using Wallet.Domain.Abstractions;
 using Wallet.Domain.Exceptions;
 
 namespace Wallet.Domain.Entities;
-
-public sealed class Category : IIdentifiable
+public sealed class Category : BaseEntity
 {
-    public Guid Id { get; }
     
     [JsonInclude]
     public string Name { get; private set; }
@@ -18,19 +15,17 @@ public sealed class Category : IIdentifiable
     public string? Description { get; private set; }
 
     public Category(string name, CategoryType type, string? description = null)
-        : this(Guid.NewGuid(), name, type, description)
+        : base()
     {
+        Name = ValidateName(name);
+        Type = type;
+        Description = NormalizeDescription(description);
     }
 
     [JsonConstructor]
     public Category(Guid id, string name, CategoryType type, string? description)
+        : base(id)
     {
-        if (id == Guid.Empty)
-        {
-            throw new ValidationException("Ідентифікатор категорії не може бути порожнім.");
-        }
-
-        Id = id;
         Name = ValidateName(name);
         Type = type;
         Description = NormalizeDescription(description);
@@ -70,6 +65,18 @@ public sealed class Category : IIdentifiable
         return trimmed.Length <= 500
             ? trimmed
             : trimmed[..500];
+    }
+
+    public override string GetDisplayName()
+    {
+        var descriptionPart = string.IsNullOrWhiteSpace(Description) 
+            ? string.Empty 
+            : $" - {Description}";
+        return $"[{Type}] {Name}{descriptionPart}";
+    }
+    public override string GetShortDescription()
+    {
+        return $"{Type}: {Name}";
     }
 }
 

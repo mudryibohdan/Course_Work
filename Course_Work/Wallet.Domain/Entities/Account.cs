@@ -1,12 +1,10 @@
 using System.Text.Json.Serialization;
-using Wallet.Domain.Abstractions;
 using Wallet.Domain.Exceptions;
 
 namespace Wallet.Domain.Entities;
 
-public sealed class Account : IIdentifiable
+public sealed class Account : BaseEntity
 {
-    public Guid Id { get; }
     
     [JsonInclude]
     public string Name { get; private set; }
@@ -18,19 +16,22 @@ public sealed class Account : IIdentifiable
     public decimal Balance { get; private set; }
 
     public Account(string name, string currency = "UAH", decimal initialBalance = 0m)
-        : this(Guid.NewGuid(), name, currency, initialBalance)
+        : base()
     {
+        Name = ValidateName(name);
+        Currency = ValidateCurrency(currency);
+        if (initialBalance < 0)
+        {
+            throw new ValidationException("Початковий баланс не може бути від'ємним.");
+        }
+
+        Balance = initialBalance;
     }
 
     [JsonConstructor]
     public Account(Guid id, string name, string currency, decimal balance)
+        : base(id)
     {
-        if (id == Guid.Empty)
-        {
-            throw new ValidationException("Ідентифікатор рахунку не може бути порожнім.");
-        }
-
-        Id = id;
         Name = ValidateName(name);
         Currency = ValidateCurrency(currency);
         if (balance < 0)
@@ -92,6 +93,14 @@ public sealed class Account : IIdentifiable
         }
 
         return normalized;
+    }
+    public override string GetDisplayName()
+    {
+        return $"{Name} ({Currency}) - баланс: {Balance:F2}";
+    }
+    public override string GetShortDescription()
+    {
+        return $"{Name} - {Balance:F2} {Currency}";
     }
 }
 

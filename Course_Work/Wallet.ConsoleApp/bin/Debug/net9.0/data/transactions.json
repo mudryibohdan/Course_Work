@@ -24,5 +24,31 @@
     "note": null,
     "isIncome": false,
     "absoluteAmount": 230
+  },
+  {
+    "id": "50613c29-e594-4d2f-966e-8845ee1d7f2a",
+    "accountId": "6a761d74-6710-4384-a891-1de2585e7e54",
+    "counterpartyAccountId": "2fb289a0-aecd-45d4-abf4-8f767d8077cd",
+    "categoryId": null,
+    "transferGroupId": "995066f2-b2e3-4522-b015-b85aec0d09bd",
+    "type": "Transfer",
+    "amount": -20,
+    "occurredOn": "2025-11-13T00:00:00",
+    "note": null,
+    "isIncome": false,
+    "absoluteAmount": 20
+  },
+  {
+    "id": "bce33e95-1c5a-4d87-a12c-4763c607dbe4",
+    "accountId": "2fb289a0-aecd-45d4-abf4-8f767d8077cd",
+    "counterpartyAccountId": "6a761d74-6710-4384-a891-1de2585e7e54",
+    "categoryId": null,
+    "transferGroupId": "995066f2-b2e3-4522-b015-b85aec0d09bd",
+    "type": "Transfer",
+    "amount": 20,
+    "occurredOn": "2025-11-13T00:00:00",
+    "note": null,
+    "isIncome": true,
+    "absoluteAmount": 20
   }
 ]

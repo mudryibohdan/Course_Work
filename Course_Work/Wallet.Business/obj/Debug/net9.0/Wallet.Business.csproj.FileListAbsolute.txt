@@ -13,3 +13,4 @@ D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Busi
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\refint\Wallet.Business.dll
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.pdb
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\ref\Wallet.Business.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Business\obj\Debug\net9.0\Wallet.Business.sourcelink.json

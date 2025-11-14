@@ -1,20 +1,13 @@
 using System.Text.Json.Serialization;
-using Wallet.Domain.Abstractions;
 using Wallet.Domain.Exceptions;
 
 namespace Wallet.Domain.Entities;
-
-public sealed class Transaction : IIdentifiable
+public sealed class Transaction : BaseTransaction
 {
-    public Guid Id { get; }
-    public Guid AccountId { get; }
     public Guid? CounterpartyAccountId { get; }
-    public Guid? CategoryId { get; }
     public Guid? TransferGroupId { get; }
-    public TransactionType Type { get; }
-    public decimal Amount { get; }
-    public DateTime OccurredOn { get; }
-    public string? Note { get; }
+    
+    public override TransactionType Type { get; }
 
     public Transaction(
         Guid accountId,
@@ -40,27 +33,13 @@ public sealed class Transaction : IIdentifiable
         Guid? counterpartyAccountId = null,
         Guid? transferGroupId = null,
         string? note = null)
+        : base(id, accountId, amount, occurredOn, categoryId, note)
     {
-        if (id == Guid.Empty)
-        {
-            throw new ValidationException("Ідентифікатор транзакції не може бути порожнім.");
-        }
-
-        if (accountId == Guid.Empty)
-        {
-            throw new ValidationException("Ідентифікатор рахунку обов'язковий.");
-        }
-
-        if (amount == 0)
-        {
-            throw new ValidationException("Сума транзакції не може дорівнювати 0.");
-        }
-
-        if (occurredOn.ToUniversalTime() > DateTime.UtcNow.AddMinutes(1))
-        {
-            throw new ValidationException("Дата транзакції не може бути з майбутнього.");
-        }
-
+        Type = type;
+        CounterpartyAccountId = counterpartyAccountId;
+        TransferGroupId = transferGroupId;
+        
+        // Додаткова валідація для сумісності зі старим кодом
         if (type != TransactionType.Transfer)
         {
             if (categoryId is null)
@@ -90,30 +69,14 @@ public sealed class Transaction : IIdentifiable
                 throw new ValidationException("Група переказу має бути порожньою або валідним ідентифікатором.");
             }
         }
-
-        Id = id;
-        AccountId = accountId;
-        Amount = decimal.Round(amount, 2, MidpointRounding.AwayFromZero);
-        Type = type;
-        OccurredOn = occurredOn;
-        CategoryId = categoryId;
-        CounterpartyAccountId = counterpartyAccountId;
-        TransferGroupId = transferGroupId;
-        Note = NormalizeNote(note);
     }
 
-    public bool IsIncome => Amount > 0;
-    public decimal AbsoluteAmount => Math.Abs(Amount);
-
-    private static string? NormalizeNote(string? note)
+    protected override void ValidateSpecific()
     {
-        if (string.IsNullOrWhiteSpace(note))
-        {
-            return null;
-        }
-
-        var trimmed = note.Trim();
-        return trimmed.Length <= 500 ? trimmed : trimmed[..500];
+     
     }
+
+    public new bool IsIncome => Amount > 0;
+    public decimal AbsoluteAmount => GetAbsoluteAmount();
 }
 

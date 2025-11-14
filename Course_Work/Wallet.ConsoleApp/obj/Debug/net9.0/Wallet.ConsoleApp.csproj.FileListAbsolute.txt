@@ -22,3 +22,4 @@ D:\OOP_2025\Course_Work\Course_Work\Wallet.ConsoleApp\obj\Debug\net9.0\refint\Wa
 D:\OOP_2025\Course_Work\Course_Work\Wallet.ConsoleApp\obj\Debug\net9.0\Wallet.ConsoleApp.pdb
 D:\OOP_2025\Course_Work\Course_Work\Wallet.ConsoleApp\obj\Debug\net9.0\Wallet.ConsoleApp.genruntimeconfig.cache
 D:\OOP_2025\Course_Work\Course_Work\Wallet.ConsoleApp\obj\Debug\net9.0\ref\Wallet.ConsoleApp.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.ConsoleApp\obj\Debug\net9.0\Wallet.ConsoleApp.sourcelink.json

@@ -3,8 +3,104 @@
   "WorkspaceRootPath": "D:\\OOP_2025\\Course_Work\\Course_Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.consoleapp\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|solutionrelative:wallet.consoleapp\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\json\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\json\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\json\\jsontransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\json\\jsontransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\abstractions\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\abstractions\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\basetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\basetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\expensetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\expensetransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\incometransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\incometransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\datastoreexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\datastoreexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\walletexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\walletexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.consoleapp\\walletapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +111,28 @@
       "RelativeMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|solutionrelative:wallet.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.consoleapp\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|solutionrelative:wallet.consoleapp\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\models\\periodtotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\models\\periodtotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\models\\dailysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\models\\categorysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\models\\categorysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\models\\periodtotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\models\\periodtotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\abstractions\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,96 +155,12 @@
       "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\business\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\business\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.business\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31F4EF59-1340-4569-B043-1C808C4C5D67}|Wallet.Business\\Wallet.Business.csproj|solutionrelative:wallet.business\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\abstractions\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\abstractions\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.consoleapp\\wallet.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CCF0FFAB-E638-40AF-8CED-708ACDFD3043}|Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj|solutionrelative:wallet.consoleapp\\wallet.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.tests\\infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB6AB07-4D72-43E6-A863-FC21316F98CD}|Wallet.Tests\\Wallet.Tests.csproj|solutionrelative:wallet.tests\\infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\json\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\json\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\json\\jsontransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\json\\jsontransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.dataaccess\\wallet.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3BD922D9-7DF1-43CF-8C25-A9DA0A142669}|Wallet.DataAccess\\Wallet.DataAccess.csproj|solutionrelative:wallet.dataaccess\\wallet.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|d:\\oop_2025\\course_work\\course_work\\wallet.domain\\exceptions\\walletexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E3D55A-CDA7-474E-8392-A73DBEFCD3A6}|Wallet.Domain\\Wallet.Domain.csproj|solutionrelative:wallet.domain\\exceptions\\walletexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -157,59 +185,345 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategorySummary.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\CategorySummary.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Models\\CategorySummary.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\CategorySummary.cs",
-              "RelativeToolTip": "Wallet.Business\\Models\\CategorySummary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BaseTransaction.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\BaseTransaction.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\BaseTransaction.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\BaseTransaction.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\BaseTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:36:34.116Z",
+              "WhenOpened": "2025-11-14T00:58:36.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:58:30.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DailySummary.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\DailySummary.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Models\\DailySummary.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\DailySummary.cs",
-              "RelativeToolTip": "Wallet.Business\\Models\\DailySummary.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Account.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAxwF8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:36:33.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PeriodTotals.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\PeriodTotals.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Models\\PeriodTotals.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\PeriodTotals.cs",
-              "RelativeToolTip": "Wallet.Business\\Models\\PeriodTotals.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:37:05.608Z",
+              "WhenOpened": "2025-11-12T16:19:06.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Wallet.Business\\Services\\CategoryService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Abstractions\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Abstractions\\IIdentifiable.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Abstractions\\IIdentifiable.cs",
+              "RelativeToolTip": "Wallet.Domain\\Abstractions\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:36:46.84Z",
+              "WhenOpened": "2025-11-12T16:22:23.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Wallet.DataAccess\\DependencyInjection.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\DependencyInjection.cs",
+              "RelativeToolTip": "Wallet.DataAccess\\DependencyInjection.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvxMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:01:57.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonTransactionRepository.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
+              "RelativeDocumentMoniker": "Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
+              "RelativeToolTip": "Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:34:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonRepository.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonRepository.cs",
+              "RelativeDocumentMoniker": "Wallet.DataAccess\\Json\\JsonRepository.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonRepository.cs",
+              "RelativeToolTip": "Wallet.DataAccess\\Json\\JsonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:02:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:37:39.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\CategoryType.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\CategoryType.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:37:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseTransaction.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\ExpenseTransaction.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\ExpenseTransaction.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\ExpenseTransaction.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\ExpenseTransaction.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:58:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IncomeTransaction.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\IncomeTransaction.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\IncomeTransaction.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\IncomeTransaction.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\IncomeTransaction.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:57:09.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:20:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionFactory.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionFactory.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\TransactionFactory.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionFactory.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\TransactionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:58:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\TransferTransaction.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransferTransaction.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\TransferTransaction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:59:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\TransactionType.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionType.cs",
+              "RelativeToolTip": "Wallet.Domain\\Entities\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:29:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataStoreException.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\DataStoreException.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\DataStoreException.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\DataStoreException.cs",
+              "RelativeToolTip": "Wallet.Domain\\Exceptions\\DataStoreException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:32:59.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Wallet.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:19:39.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Wallet.Domain\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:19:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalletException.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\WalletException.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\WalletException.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\WalletException.cs",
+              "RelativeToolTip": "Wallet.Domain\\Exceptions\\WalletException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:19:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Wallet.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:19:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Wallet.Domain\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "Wallet.Domain\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:30:01.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountServiceTests.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\AccountServiceTests.cs",
+              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\AccountServiceTests.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\AccountServiceTests.cs",
+              "RelativeToolTip": "Wallet.Tests\\Business\\AccountServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:48:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryServiceTests.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\CategoryServiceTests.cs",
+              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\CategoryServiceTests.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\CategoryServiceTests.cs",
+              "RelativeToolTip": "Wallet.Tests\\Business\\CategoryServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:10:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\TransactionServiceTests.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\TransactionServiceTests.cs",
+              "RelativeToolTip": "Wallet.Tests\\Business\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:10:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
+              "RelativeToolTip": "Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:47:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WalletApplication.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\WalletApplication.cs",
+              "RelativeDocumentMoniker": "Wallet.ConsoleApp\\WalletApplication.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\WalletApplication.cs",
+              "RelativeToolTip": "Wallet.ConsoleApp\\WalletApplication.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAA2wOgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:38:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Wallet.ConsoleApp\\Program.cs",
@@ -222,46 +536,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WalletApplication.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\WalletApplication.cs",
-              "RelativeDocumentMoniker": "Wallet.ConsoleApp\\WalletApplication.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\WalletApplication.cs",
-              "RelativeToolTip": "Wallet.ConsoleApp\\WalletApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:38:32.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 27,
               "Title": "ConsoleInput.cs",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\ConsoleInput.cs",
               "RelativeDocumentMoniker": "Wallet.ConsoleApp\\ConsoleInput.cs",
               "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\ConsoleInput.cs",
               "RelativeToolTip": "Wallet.ConsoleApp\\ConsoleInput.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T12:38:22.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\DependencyInjection.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\DependencyInjection.cs",
+              "RelativeToolTip": "Wallet.Business\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:41:17.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Wallet.Business\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Wallet.Business\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:46.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Services\\AccountService.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\AccountService.cs",
+              "RelativeToolTip": "Wallet.Business\\Services\\AccountService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PeriodTotals.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\PeriodTotals.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Models\\PeriodTotals.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\PeriodTotals.cs",
+              "RelativeToolTip": "Wallet.Business\\Models\\PeriodTotals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:37:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DailySummary.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\DailySummary.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Models\\DailySummary.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\DailySummary.cs",
+              "RelativeToolTip": "Wallet.Business\\Models\\DailySummary.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:33.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategorySummary.cs",
+              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\CategorySummary.cs",
+              "RelativeDocumentMoniker": "Wallet.Business\\Models\\CategorySummary.cs",
+              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Models\\CategorySummary.cs",
+              "RelativeToolTip": "Wallet.Business\\Models\\CategorySummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Abstractions\\ITransactionService.cs",
               "RelativeDocumentMoniker": "Wallet.Business\\Abstractions\\ITransactionService.cs",
               "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Abstractions\\ITransactionService.cs",
               "RelativeToolTip": "Wallet.Business\\Abstractions\\ITransactionService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T12:36:27.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Wallet.Business\\Abstractions\\ICategoryService.cs",
@@ -274,68 +666,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Abstractions\\IAccountService.cs",
               "RelativeDocumentMoniker": "Wallet.Business\\Abstractions\\IAccountService.cs",
               "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Abstractions\\IAccountService.cs",
               "RelativeToolTip": "Wallet.Business\\Abstractions\\IAccountService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowAYAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T12:36:22.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Category.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Wallet.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:37:39.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryType.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\CategoryType.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\CategoryType.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\CategoryType.cs",
-              "RelativeToolTip": "Wallet.Domain\\Entities\\CategoryType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:37:41.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InMemoryRepository.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
-              "RelativeDocumentMoniker": "Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
-              "RelativeToolTip": "Wallet.Tests\\Infrastructure\\InMemoryRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:47:54.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountServiceTests.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\AccountServiceTests.cs",
-              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\AccountServiceTests.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\AccountServiceTests.cs",
-              "RelativeToolTip": "Wallet.Tests\\Business\\AccountServiceTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:48:02.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "Wallet.ConsoleApp.csproj",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "Wallet.ConsoleApp\\Wallet.ConsoleApp.csproj",
@@ -347,187 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryServiceTests.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\CategoryServiceTests.cs",
-              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\CategoryServiceTests.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\CategoryServiceTests.cs",
-              "RelativeToolTip": "Wallet.Tests\\Business\\CategoryServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T18:10:16.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TransactionServiceTests.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\TransactionServiceTests.cs",
-              "RelativeDocumentMoniker": "Wallet.Tests\\Business\\TransactionServiceTests.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Business\\TransactionServiceTests.cs",
-              "RelativeToolTip": "Wallet.Tests\\Business\\TransactionServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T18:10:18.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\DependencyInjection.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\DependencyInjection.cs",
-              "RelativeToolTip": "Wallet.Business\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T18:41:17.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "JsonTransactionRepository.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
-              "RelativeDocumentMoniker": "Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
-              "RelativeToolTip": "Wallet.DataAccess\\Json\\JsonTransactionRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:34:36.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Repositories\\ITransactionRepository.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\ITransactionRepository.cs",
-              "RelativeToolTip": "Wallet.Domain\\Repositories\\ITransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:30:01.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TransactionType.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionType.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\TransactionType.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\TransactionType.cs",
-              "RelativeToolTip": "Wallet.Domain\\Entities\\TransactionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:29:07.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IIdentifiable.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Abstractions\\IIdentifiable.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Abstractions\\IIdentifiable.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Abstractions\\IIdentifiable.cs",
-              "RelativeToolTip": "Wallet.Domain\\Abstractions\\IIdentifiable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:22:23.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Transaction.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Transaction.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Transaction.cs",
-              "RelativeToolTip": "Wallet.Domain\\Entities\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:20:20.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Repositories\\IRepository.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Wallet.Domain\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAgAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:19:52.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "WalletException.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\WalletException.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\WalletException.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\WalletException.cs",
-              "RelativeToolTip": "Wallet.Domain\\Exceptions\\WalletException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:19:43.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ValidationException.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\ValidationException.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\ValidationException.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\ValidationException.cs",
-              "RelativeToolTip": "Wallet.Domain\\Exceptions\\ValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:19:41.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "Wallet.Domain\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:19:39.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "Wallet.Domain\\Entities\\Account.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Domain\\Entities\\Account.cs",
-              "RelativeToolTip": "Wallet.Domain\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:19:06.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "JsonRepository.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonRepository.cs",
-              "RelativeDocumentMoniker": "Wallet.DataAccess\\Json\\JsonRepository.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Json\\JsonRepository.cs",
-              "RelativeToolTip": "Wallet.DataAccess\\Json\\JsonRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:02:18.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Wallet.DataAccess\\DependencyInjection.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\DependencyInjection.cs",
-              "RelativeToolTip": "Wallet.DataAccess\\DependencyInjection.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBMAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T16:01:57.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "Wallet.DataAccess.csproj",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.DataAccess\\Wallet.DataAccess.csproj",
               "RelativeDocumentMoniker": "Wallet.DataAccess\\Wallet.DataAccess.csproj",
@@ -539,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -549,31 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\TransactionService.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Services\\TransactionService.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\TransactionService.cs",
-              "RelativeToolTip": "Wallet.Business\\Services\\TransactionService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:36:47.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Wallet.Business\\Services\\AccountService.cs",
-              "ToolTip": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Business\\Services\\AccountService.cs",
-              "RelativeToolTip": "Wallet.Business\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wAcAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:36:37.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "Wallet.Tests.csproj",
               "DocumentMoniker": "D:\\OOP_2025\\Course_Work\\Course_Work\\Wallet.Tests\\Wallet.Tests.csproj",
               "RelativeDocumentMoniker": "Wallet.Tests\\Wallet.Tests.csproj",

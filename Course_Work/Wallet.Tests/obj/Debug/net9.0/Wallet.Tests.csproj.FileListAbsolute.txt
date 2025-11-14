@@ -103,3 +103,4 @@ D:\OOP_2025\Course_Work\Course_Work\Wallet.Tests\obj\Debug\net9.0\refint\Wallet.
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Tests\obj\Debug\net9.0\Wallet.Tests.pdb
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Tests\obj\Debug\net9.0\Wallet.Tests.genruntimeconfig.cache
 D:\OOP_2025\Course_Work\Course_Work\Wallet.Tests\obj\Debug\net9.0\ref\Wallet.Tests.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.Tests\obj\Debug\net9.0\Wallet.Tests.sourcelink.json

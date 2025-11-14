@@ -13,3 +13,4 @@ D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.Da
 D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\refint\Wallet.DataAccess.dll
 D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.pdb
 D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\ref\Wallet.DataAccess.dll
+D:\OOP_2025\Course_Work\Course_Work\Wallet.DataAccess\obj\Debug\net9.0\Wallet.DataAccess.sourcelink.json
